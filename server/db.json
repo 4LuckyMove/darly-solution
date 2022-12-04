@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Leanne",
+      "lastName": "Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "city": "Gwenborough",
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org",
+      "company": "Romaguera-Crona"
+    },
+    {
+      "id": 2,
+      "firstName": "Ervin",
+      "lastName": "Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "city": "Wisokyburgh",
+      "phone": "1-010-692-6593",
+      "website": "anastasia.net",
+      "company": "Deckow-Crist"
+    },
+    {
+      "id": 3,
+      "firstName": "Clementine",
+      "lastName": "Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "city": "McKenziehaven",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": "Romaguera-Jacobson"
+    },
+    {
+      "id": 4,
+      "firstName": "Patricia",
+      "lastName": "Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "city": "South Elvis",
+      "phone": "1-493-170-9623",
+      "website": "kale.biz",
+      "company": "Robel-Corkery"
+    },
+    {
+      "id": 5,
+      "firstName": "Chelsey",
+      "lastName": "Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "city": "Roscoeview",
+      "phone": "1-254-954-1289",
+      "website": "demarco.info",
+      "company": "Keebler LLC"
+    },
+    {
+      "id": 6,
+      "firstName": "Mrs. Dennis",
+      "lastName": "Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "city": "South Christy",
+      "phone": "1-477-935-8478",
+      "website": "ola.org",
+      "company": "Considine-Lockman"
+    },
+    {
+      "id": 7,
+      "firstName": "Kurtis",
+      "lastName": "Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "city": "Howemouth",
+      "phone": "1-210-067-6132",
+      "website": "elvis.io",
+      "company": "Johns Group"
+    },
+    {
+      "id": 8,
+      "firstName": "Nicholas",
+      "lastName": "Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "city": "Aliyaview",
+      "phone": "1-586-493-6943",
+      "website": "jacynthe.com",
+      "company": "Abernathy Group"
+    },
+    {
+      "id": 9,
+      "firstName": "Glenna",
+      "lastName": "Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "city": "Bartholomebury",
+      "phone": "1-775-976-6794",
+      "website": "conrad.com",
+      "company": "Yost and Sons"
+    },
+    {
+      "id": 10,
+      "firstName": "Clementina",
+      "lastName": "DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "city": "Lebsackbury",
+      "phone": "1-024-648-3804",
+      "website": "ambrose.net",
+      "company": "Hoeger LLC"
+    },
+    {
+      "id": 11,
+      "firstName": "Leanne",
+      "lastName": "Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "city": "Gwenborough",
+      "phone": "1-770-736-8031",
+      "website": "hildegard.org",
+      "company": "Romaguera-Crona"
+    },
+    {
+      "id": 12,
+      "firstName": "Ervin",
+      "lastName": "Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "city": "Wisokyburgh",
+      "phone": "1-010-692-6593",
+      "website": "anastasia.net",
+      "company": "Deckow-Crist"
+    },
+    {
+      "id": 13,
+      "firstName": "Clementine",
+      "lastName": "Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "city": "McKenziehaven",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": "Romaguera-Jacobson"
+    },
+    {
+      "id": 14,
+      "firstName": "Patricia",
+      "lastName": "Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "city": "South Elvis",
+      "phone": "1-493-170-9623",
+      "website": "kale.biz",
+      "company": "Robel-Corkery"
+    },
+    {
+      "id": 15,
+      "firstName": "Chelsey",
+      "lastName": "Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "city": "Roscoeview",
+      "phone": "1-254-954-1289",
+      "website": "demarco.info",
+      "company": "Keebler LLC"
+    },
+    {
+      "id": 16,
+      "firstName": "Mrs. Dennis",
+      "lastName": "Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "city": "South Christy",
+      "phone": "1-477-935-8478",
+      "website": "ola.org",
+      "company": "Considine-Lockman"
+    },
+    {
+      "id": 17,
+      "firstName": "Kurtis",
+      "lastName": "Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "city": "Howemouth",
+      "phone": "1-210-067-6132",
+      "website": "elvis.io",
+      "company": "Johns Group"
+    },
+    {
+      "id": 18,
+      "firstName": "Nicholas",
+      "lastName": "Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "city": "Aliyaview",
+      "phone": "1-586-493-6943",
+      "website": "jacynthe.com",
+      "company": "Abernathy Group"
+    },
+    {
+      "id": 19,
+      "firstName": "Glenna",
+      "lastName": "Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "city": "Bartholomebury",
+      "phone": "1-775-976-6794",
+      "website": "conrad.com",
+      "company": "Yost and Sons"
+    },
+    {
+      "id": 20,
+      "firstName": "Clementina",
+      "lastName": "DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "city": "Lebsackbury",
+      "phone": "1-024-648-3804",
+      "website": "ambrose.net",
+      "company": "Hoeger LLC"
+    }
+  ]
+}
